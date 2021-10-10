@@ -1,10 +1,10 @@
 const mysql = require('mysql')
 
 const pool = mysql.createConnection({
-host: 'localhost',
-user: 'root',
-password: '1234',
-database: 'timekeeping',
+host: 'sql6.freemysqlhosting.net',
+user: 'sql6443468',
+password: 'ntLBPUaa1P',
+database: 'sql6443468',
 })
 
 
